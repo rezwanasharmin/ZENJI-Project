@@ -82,29 +82,6 @@ ZENJI/
 
 ---
 
-## 🎯 Interview Talking Points (কেন এই প্রজেক্টটি অনন্য?)
-
-1. **Strictly Typed Architecture**:
-   - কোনো `any` শর্টকাট ছাড়া প্রতিটি অবজেক্ট, কার্ট আইটেম, সাইজ অপশন ও কারেন্সি কনফিগারেশন টাইপস্ক্রিপ্ট ইন্টারফেসে স্ট্রাকচার করা।
-2. **Next.js 14 App Router**:
-   - আধুনিক Next.js 14 ফাইল-বেসড রাউটিং, সার্ভার ও ক্লায়েন্ট কম্পোনেন্ট অপটিমাইজেশন (`'use client'`)।
-3. **Interactive 3D WebGL (Three.js)**:
-   - ব্যাকগ্রাউন্ডে রেসপনসিভ Three.js পার্টিকেল ক্লাউড এবং জ্যামিতিক ওয়্যারফ্রেম অ্যানিমেশন।
-4. **Interactive Tokyo Lo-Fi Audio Engine**:
-   - Web Audio API সিন্থেসাইজার দিয়ে ইন্টারঅ্যাকশন সাউন্ড এবং লো-ফাই আবহ।
-5. **AI "Find My Fit" Recommender**:
-   - অ্যালগরিদমিক হাইট ও ওয়েইট স্লাইডার দিয়ে অটোমেটিক পারফেক্ট সাইজ প্রেডিকশন এবং এক ক্লিকে পুরো ক্যাটালগে প্রয়োগ।
-6. **Live Multi-Currency Converter**:
-   - AUD, USD, JPY, EUR, GBP লাইভ রিয়েল-টাইম প্রাইস কনভার্সন।
-7. **The Shonen Duo Arc Bundle**:
-   - দুটি টি-শার্ট একত্রে সিলেক্ট করলে তাৎক্ষণিক A$15 ডিসকাউন্ট ও ফ্রি এক্সপ্রেস শিপিং আনলক।
-8. **Live Dynamic Quantity Pricing in Quick View**:
-   - কোয়ান্টিটি বাড়ালে বা কমালে বাটন এবং সাব-লেবেলে লাইভ মাল্টিপ্লাইড প্রাইস হিসাব।
-9. **SEO & Performance Optimized**:
-   - মেটাডাটা, প্রি-রেন্ডারড স্ট্যাটিক পেইজ, লেজি লোডিং এবং স্মুথ ৬০fps ইউজার ইন্টারঅ্যাকশন।
-
----
-
 ## 📄 License & Attribution
 - Inspired by **ZENJI Streetwear Australia** ([zenji.shop](https://zenji.shop/)).
 - Built as an advanced frontend assessment & portfolio project.
